@@ -1,4 +1,5 @@
-# bow_in_c
+# BOW in c
+# Text representation with bag-of-words (BOW) approach
 2018-2019 fall CSE225 - Data Structures Project-1
  
 150117509 Mustafa Abdullah Hakkoz  
